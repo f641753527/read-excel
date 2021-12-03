@@ -1,0 +1,49 @@
+[
+	{
+		"Staff Name": "Alex Qin",
+		"VM": "WKSP000DA17B.asiapac.ups.com",
+		"GD-ID": "GD000007085",
+		"GD-PW": "Test.123450",
+		"AD-ID": "RRJ8NHZ",
+		"AD-PW": "Test.54321",
+		"Email": "aqin@ups.com"
+	},
+	{
+		"Staff Name": "Fish Yu",
+		"VM": "WKSP000DA182.asiapac.ups.com",
+		"GD-ID": "GD000007084",
+		"AD-ID": "JMV8VVD",
+		"Email": "fishyu@ups.com"
+	},
+	{
+		"Staff Name": "Leo Song",
+		"VM": "WKSP000DA266.asiapac.ups.com",
+		"GD-ID": "GD000011188",
+		"AD-ID": "NGW3WYN",
+		"AD-PW": "So741852a",
+		"Email": "leosong@ups.com"
+	},
+	{
+		"Staff Name": "Roy Huang",
+		"VM": "WKSP000DA180.asiapac.ups.com",
+		"GD-ID": "GD000011191",
+		"AD-ID": "DJP7XQD",
+		"Email": "rhuang@ups.com"
+	},
+	{
+		"Staff Name": "Echo Huang",
+		"VM": "WKSP000DA17D.asiapac.ups.com",
+		"GD-ID": "GD000011351",
+		"AD-ID": "NSZ8VXM",
+		"AD-PW": "mxv8zsnTEST1",
+		"Email": "hecho@ups.com"
+	},
+	{
+		"Staff Name": "Desmond Chen",
+		"VM": "WKSP000DA266.asiapac.ups.com",
+		"GD-ID": "GD000012090",
+		"AD-ID": "KVR5DFB",
+		"AD-PW": "kq3REdMRn73Awy2Hg8iJ",
+		"Email": "desmondchen@ups.com"
+	}
+]
