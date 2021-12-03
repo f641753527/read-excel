@@ -1,0 +1,20 @@
+{
+  "name": "read-excel",
+  "version": "1.0.0",
+  "description": "读取excel文件",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "json",
+    "read-excel"
+  ],
+  "author": "Phoenix",
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/npm/cli.git"
+  }
+}
