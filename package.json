@@ -1,6 +1,6 @@
 {
   "name": "read-excel",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "读取excel文件",
   "main": "index.js",
   "bin": {
@@ -18,7 +18,7 @@
   "license": "ISC",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/f641753527/sheetjs"
+    "url" : "https://github.com/f641753527/read-excel"
   },
-  "homepage": "https://github.com/f641753527/sheetjs"
+  "homepage": "https://github.com/f641753527/read-excel"
 }
